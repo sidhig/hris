@@ -1,0 +1,67 @@
+function
+	fname
+sub-function
+	sfname 
+	fname
+process
+	pname
+	sfname 
+	fname
+role
+	rname
+	pname
+	sfname 
+	fname
+user
+	uid
+	pass
+	ecn
+	uname
+	doj
+	doe
+	ecategory
+	gender
+	rname
+	pname
+	sfname 
+	fname
+	supid
+	hodid
+	enabled
+	
+movement
+	ecn
+	name
+	o_rname
+	o_pname
+	o_sfname 
+	o_fname
+	n_rname
+	n_pname
+	n_sfname 
+	n_fname
+	date
+
+feedback
+	STATUS ='', 
+	feedback_id = '' ,
+	R_S = '' ,
+	feedback_month = '' ,
+	discussion_date = '' ,
+	sranking = '' ,
+	PBI_payout = '' ,
+	QA_Score = '' ,
+	Bill_utilization = '' ,
+	Volume = '".$_REQUEST['Volume']."' ,
+	Attendance = '' ,
+	IECA = '' ,
+	FES = '' ,
+	FAO = '' ,
+	IAC = '' ,
+	APCD = '' ,
+	SLMD = '' ,
+	PAC = '' ,
+	WS = '' ,
+	WL = '' ,
+	ESAT = ''
+	WHERE S_No='$S_No'; 

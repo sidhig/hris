@@ -1,0 +1,22 @@
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in C:\wamp\www\mirror2\_res\inc_archutil_h.php on line 8
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP Stack trace:
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   1. {main}() C:\wamp\www\mirror2\getarchutil.php:0
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   2. include() C:\wamp\www\mirror2\getarchutil.php:9
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   3. include() C:\wamp\www\mirror2\_res\inc_base.php:90
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   4. session_start() C:\wamp\www\mirror2\_res\inc_archutil_h.php:8
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP Notice:  Undefined variable: htmlOptn in C:\wamp\www\mirror2\_res\inc_archutil_h.php on line 21
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP Stack trace:
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   1. {main}() C:\wamp\www\mirror2\getarchutil.php:0
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   2. include() C:\wamp\www\mirror2\getarchutil.php:9
+[13-Jan-2016 18:06:19 Asia/Calcutta] PHP   3. include() C:\wamp\www\mirror2\_res\inc_base.php:90
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP Notice:  A session had already been started - ignoring session_start() in C:\wamp\www\mirror2\_res\inc_archutil_h.php on line 8
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP Stack trace:
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   1. {main}() C:\wamp\www\mirror2\getarchutil.php:0
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   2. include() C:\wamp\www\mirror2\getarchutil.php:9
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   3. include() C:\wamp\www\mirror2\_res\inc_base.php:90
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   4. session_start() C:\wamp\www\mirror2\_res\inc_archutil_h.php:8
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP Notice:  Undefined variable: htmlOptn in C:\wamp\www\mirror2\_res\inc_archutil_h.php on line 21
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP Stack trace:
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   1. {main}() C:\wamp\www\mirror2\getarchutil.php:0
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   2. include() C:\wamp\www\mirror2\getarchutil.php:9
+[13-Jan-2016 18:06:24 Asia/Calcutta] PHP   3. include() C:\wamp\www\mirror2\_res\inc_base.php:90
